@@ -50,6 +50,9 @@
       <change beforePath="$PROJECT_DIR$/../img/trophy.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../img/twitter.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot-discord/.env" beforeDir="false" afterPath="$PROJECT_DIR$/bot-discord/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot-discord/mySqlConnector.js" beforeDir="false" afterPath="$PROJECT_DIR$/bot-discord/mySqlConnector.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sondage.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658223253968</updated>
       <workItem from="1658223256046" duration="5493000" />
-      <workItem from="1658395114791" duration="2892000" />
+      <workItem from="1658395114791" duration="2967000" />
     </task>
     <servers />
   </component>
