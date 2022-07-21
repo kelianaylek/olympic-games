@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9ad77a3-02c6-48d5-bf5a-688b1ab22487" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../classement.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/app/Actions/Fortify/CreateNewUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/app/Actions/Fortify/CreateNewUser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/app/Actions/Fortify/UpdateUserProfileInformation.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/app/Actions/Fortify/UpdateUserProfileInformation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/app/Console/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/config/jetstream.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/config/jetstream.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/config/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/config/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/config/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/Jetstream/AuthenticationCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/Jetstream/AuthenticationCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/Jetstream/AuthenticationCardLogo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/Jetstream/AuthenticationCardLogo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/Jetstream/Button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/Jetstream/Button.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/Jetstream/FormSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/Jetstream/FormSection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/Jetstream/Input.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/Jetstream/Input.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/Jetstream/ValidationErrors.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/Jetstream/ValidationErrors.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/Pages/Auth/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/Pages/Auth/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/Pages/Auth/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/Pages/Auth/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/Pages/Dashboard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/Pages/Dashboard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/Pages/Profile/Show.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/Pages/Profile/Show.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/Pages/Profile/UpdatePasswordForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/Pages/Profile/UpdatePasswordForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/Pages/Profile/UpdateProfileInformationForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/Pages/Profile/UpdateProfileInformationForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/Pages/Welcome.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/Pages/Welcome.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/resources/views/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/resources/views/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hylki/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hylki/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/bgd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/bgd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/bgd3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/email (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/instagram (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/linkedin (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/pie-chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/podium.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/trophy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sondage.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2C9mbiY5vNEsb1FWeWEhGoLcWQF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../botDiscord" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9ad77a3-02c6-48d5-bf5a-688b1ab22487" name="Default Changelist" comment="" />
+      <created>1658223253968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658223253968</updated>
+      <workItem from="1658223256046" duration="5493000" />
+      <workItem from="1658395114791" duration="2892000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
